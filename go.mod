@@ -24,9 +24,8 @@ require (
 	github.com/stretchr/testify v1.2.2
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v0.0.0-20170224212429-dcecefd839c4 // indirect
-	golang.org/x/crypto v0.0.0-20181029103014-dab2b1051b5d
-	golang.org/x/sys v0.0.0-20181026203630-95b1ffbd15a5 // indirect
+	golang.org/x/crypto v0.0.0-20190320223903-b7391e95e576
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/yaml.v2 v2.2.4
-	mellium.im/sasl v0.2.1 // indirect
+	mellium.im/sasl v0.3.1 // indirect
 )
